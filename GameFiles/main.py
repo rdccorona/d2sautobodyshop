@@ -44,7 +44,7 @@ def main():
     scoreBox = pygame.Surface((200,100))
 
 
-    # Car part variables
+    # Car part variables (from PNGTREE)
     rawBody1 = pygame.image.load('body1.png')
     body1 = pygame.transform.scale(rawBody1, (rawBody1.get_width() * .16, rawBody1.get_height() * .25))
     rawBody2 = pygame.image.load('body2.png')
