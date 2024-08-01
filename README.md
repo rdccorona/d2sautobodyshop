@@ -11,7 +11,7 @@
 # 1. On this GitHub page, click "code" and download zip.
 # 2. If you don't already have VSCode, download it.
 # 3. If you don't already have Python, download it (version 3.10).
-# 4. Open VSCode, and import Game Files folder.
+# 4. Open VSCode, and import GameFiles folder.
 # 5. Navigate to the Game Files directory,  and install pygame (type "pip3 install pygame" in the terminal).
 # 6. Still in the Game Files directory, type "python3 main.py" in the terminal. 
 
