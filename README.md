@@ -26,3 +26,6 @@
 
 # Authors:
 # Bradley, Jonah, Reid, Robert, Bryan, Arturo
+
+# -----------------------------------------------------
+# Tufts Coding Academy 2024
