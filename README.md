@@ -8,7 +8,7 @@
 # -----------------------------------------------------
 
 # Setup Instructions:
-# 1. Download the Game Files Folder.
+# 1. On this GitHub page, click "code" and download zip 
 # 2. If you don't already have Visual Studio, download it.
 # 3. If you don't already have Python, download it.
 # 4. Open Visual Studio, and import Game Files folder.
