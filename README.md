@@ -8,8 +8,11 @@
 # -----------------------------------------------------
 
 # Setup Instructions:
-# Download the D2's Autoshop Folder
-# run main.py
+# Download the Game Files Folder.
+# If you don't already have Visual Studio, download it.
+# Open Visual Studio, and import Game Files folder.
+# While in the Game Files directory,  Install pygame (type "pip3 install pygame" in the terminal).
+# Still in the Game Files directory, type "python3 main.py" in the terminal. 
 
 # -----------------------------------------------------
 
