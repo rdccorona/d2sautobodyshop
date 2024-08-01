@@ -8,11 +8,11 @@
 # -----------------------------------------------------
 
 # Setup Instructions:
-# Download the Game Files Folder.
-# If you don't already have Visual Studio, download it.
-# Open Visual Studio, and import Game Files folder.
-# While in the Game Files directory,  Install pygame (type "pip3 install pygame" in the terminal).
-# Still in the Game Files directory, type "python3 main.py" in the terminal. 
+# 1. Download the Game Files Folder.
+# 2. If you don't already have Visual Studio, download it.
+# 3. Open Visual Studio, and import Game Files folder.
+# 4. While in the Game Files directory,  Install pygame (type "pip3 install pygame" in the terminal).
+# 5. Still in the Game Files directory, type "python3 main.py" in the terminal. 
 
 # -----------------------------------------------------
 
